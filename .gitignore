@@ -1,0 +1,15 @@
+# System files
+desktop.ini
+Thumbs.db
+
+# Arduino IDE/Build files
+build/
+bin/
+*.local.txt
+*.local
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.suo
+*.user
