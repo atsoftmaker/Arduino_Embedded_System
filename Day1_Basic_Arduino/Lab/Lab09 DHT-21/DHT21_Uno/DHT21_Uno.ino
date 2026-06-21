@@ -1,4 +1,4 @@
-﻿// Download Library: "DHT sensor library" และ "Adafruit Unified Sensor" จาก Library Manager
+// Download Library: "DHT sensor library" และ "Adafruit Unified Sensor" จาก Library Manager
 #include "DHT.h"
 #define DHTPIN 2       // Data Wire to D2
 #define DHTTYPE DHT21  // Config Model (DHT21)

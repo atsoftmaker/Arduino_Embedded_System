@@ -1,4 +1,4 @@
-﻿int irPin = 2; // OUT from module to D2 from board
+int irPin = 2; // OUT from module to D2 from board
 
 void setup() {
   Serial.begin(9600);

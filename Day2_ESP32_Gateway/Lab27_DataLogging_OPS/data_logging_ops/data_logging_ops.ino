@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 27: ESP32 Gateway -> OPS Server (Data Logging + Alert)
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: ESP32 Dev Module

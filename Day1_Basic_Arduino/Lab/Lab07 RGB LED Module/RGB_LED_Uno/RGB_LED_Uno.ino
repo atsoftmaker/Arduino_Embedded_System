@@ -1,4 +1,4 @@
-﻿//  R, G, B are PWM
+//  R, G, B are PWM
 int redPin = 2; // R from module to D2 from board
 int greenPin = 3; // G from module to D2 from board
 int bluePin = 4;  // B from module to D2 from board

@@ -1,4 +1,4 @@
-﻿void setup() {
+void setup() {
   Serial.begin(9600);
   
   // จำลองข้อมูลที่รับมาจากอินเทอร์เน็ตเป็น String

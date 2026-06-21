@@ -1,4 +1,4 @@
-﻿void setup() {
+void setup() {
   Serial.begin(9600);
   bool isDoorOpen = false;   // ประตูไม่ได้เปิด
   bool isWindowOpen = true;  // หน้าต่างเปิด

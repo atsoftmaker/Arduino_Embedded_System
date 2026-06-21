@@ -1,4 +1,4 @@
-﻿int soundPin = A0; 
+int soundPin = A0; 
 
 void setup() {
   Serial.begin(9600);

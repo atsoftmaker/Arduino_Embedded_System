@@ -1,4 +1,4 @@
-﻿// Download Library: OneWire, DallasTemperature From Library Manager
+// Download Library: OneWire, DallasTemperature From Library Manager
 #include <OneWire.h>
 #include <DallasTemperature.h>
 

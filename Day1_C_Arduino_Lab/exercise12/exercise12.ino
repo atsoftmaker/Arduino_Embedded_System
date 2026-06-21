@@ -1,4 +1,4 @@
-﻿// 1. ฟังก์ชันคำนวณเลข BMI (เหมือนเดิมที่คุณเขียน)
+// 1. ฟังก์ชันคำนวณเลข BMI (เหมือนเดิมที่คุณเขียน)
 float calculateBMI(float weight, float height) {
   float bmi = weight / (height * height);
   return bmi; 

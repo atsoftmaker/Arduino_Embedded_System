@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 22: Modbus RTU Slave บน Arduino UNO
 // AtSoftMaker | Embedded System - Arduino
 // ต้องติดตั้งไลบรารี: ModbusRTUSlave (by CMB27)

@@ -1,4 +1,4 @@
-﻿// ActiveBuzzer.ino
+// ActiveBuzzer.ino
 int buzzerPin = 2; // + from module to D2 from board
 
 void setup() {

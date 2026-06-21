@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 25: ESP32 Web Config Portal (Dynamic Provisioning + NVS)
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: ESP32 Dev Module

@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 24: ESP32 WPA2-Enterprise (TBV-WiFi / Windows Login)
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: ESP32 Dev Module | Core 3.x

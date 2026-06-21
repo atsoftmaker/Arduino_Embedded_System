@@ -1,4 +1,4 @@
-﻿int ldrPin = A0;
+int ldrPin = A0;
 
 void setup() {
   Serial.begin(9600);

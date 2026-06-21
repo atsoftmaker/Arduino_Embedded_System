@@ -1,4 +1,4 @@
-﻿int tiltPin = 2; // D0 from module to D2 from board
+int tiltPin = 2; // D0 from module to D2 from board
 
 void setup() {
   Serial.begin(9600);

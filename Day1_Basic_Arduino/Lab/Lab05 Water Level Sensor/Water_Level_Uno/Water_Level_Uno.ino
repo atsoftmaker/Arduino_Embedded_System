@@ -1,4 +1,4 @@
-﻿int waterPin = A0; // A0 from module to A0 from board
+int waterPin = A0; // A0 from module to A0 from board
 
 void setup() {
   Serial.begin(9600);

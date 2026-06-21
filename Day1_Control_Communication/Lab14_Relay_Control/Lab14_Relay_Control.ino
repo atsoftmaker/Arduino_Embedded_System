@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 27: Digital Output - Relay Control (220V Load)
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: Arduino UNO / MEGA

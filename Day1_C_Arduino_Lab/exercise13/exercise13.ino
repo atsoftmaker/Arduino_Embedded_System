@@ -1,4 +1,4 @@
-﻿// 1. ฟังก์ชันคำนวณพื้นที่ (รับค่า int คืนค่า long เพื่อรองรับพื้นที่ขนาดใหญ่)
+// 1. ฟังก์ชันคำนวณพื้นที่ (รับค่า int คืนค่า long เพื่อรองรับพื้นที่ขนาดใหญ่)
 long calculateArea(int width, int length) {
   long area = (long)width * length;
   return area;

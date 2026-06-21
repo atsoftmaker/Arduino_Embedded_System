@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 26: ESP32 Modbus Gateway (Master) อ่านข้อมูลจาก UNO Node
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: ESP32 Dev Module | ไลบรารี: ModbusMaster (Doc Walker)

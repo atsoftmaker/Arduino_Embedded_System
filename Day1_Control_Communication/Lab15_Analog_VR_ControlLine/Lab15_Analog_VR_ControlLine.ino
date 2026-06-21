@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // Lab 15: Analog Input (VR) -> Control Line
 // AtSoftMaker | Embedded System - Arduino
 // บอร์ด: Arduino UNO / MEGA
